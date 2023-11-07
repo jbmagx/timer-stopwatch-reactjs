@@ -1,2 +1,2 @@
-# timer-stopwatch-reactjs
+# Timer / Stopwatch Project (ReactJS)
 Timer / Stopwatch Project (ReactJS)
