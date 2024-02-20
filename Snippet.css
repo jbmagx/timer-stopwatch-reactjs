@@ -1,0 +1,61 @@
+@import url('https://fonts.cdnfonts.com/css/monaco');
+
+pre {
+    max-height: 580px;
+    border-radius: 0 0 4px 4px;
+    margin: 0 !important;
+    background-color: #16181D !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.linenumber, .react-syntax-highlighter-line-number {
+    position: -webkit-sticky;
+    position: sticky;
+    left: 0;
+    z-index: 1;
+    width: 56px;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+    color: #FFFFFF !important;
+}
+
+code, .linenumber, .react-syntax-highlighter-line-number, 
+.token, .token.module, .token.imports {
+    background-color: #16181D;
+}
+
+.linenumber, .react-syntax-highlighter-line-number,
+span, .token, .token.module, .token.imports {
+    font-family: 'Monaco', sans-serif;
+}
+
+
+/* xl */
+@media (min-width: 1280px) {
+
+}
+
+/* lg */
+@media (min-width: 1024px) and (max-width: 1279px) {
+
+}
+
+/* md */
+@media (min-width: 768px) and (max-width: 1023px) {
+
+}
+
+/* sm */
+@media (min-width: 640px) and (max-width: 767px) {
+
+}
+
+/* xs */
+@media (max-width: 639px) {
+
+}
+
+@media (hover: hover) {
+
+}
